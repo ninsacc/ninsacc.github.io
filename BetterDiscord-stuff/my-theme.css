@@ -1,0 +1,34 @@
+a/**
+* @name custom theme by nin
+* @version 2.0
+* @description A nice theme that I don't know what to call it.
+* @author nin
+
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js');
+:root {
+--mainColor: rgb(0, 0, 0);
+--backgroundColor01: rgb(0, 0, 0);
+--backgroundColor02: rgb(0, 0, 0);
+--gradientColor01: rgb(0, 0, 0);
+--gradientColor02: rgb(0, 0, 0)
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 5px;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
